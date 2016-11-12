@@ -1,0 +1,4 @@
+router bgp 43 
+   bgp router-id 10.220.88.32 
+   neighbor 10.220.88.20 remote-as 42 
+   neighbor 10.220.88.38 remote-as 44 
